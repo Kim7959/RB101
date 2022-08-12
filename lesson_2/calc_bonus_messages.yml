@@ -1,0 +1,26 @@
+
+en:
+  welcome: "Welcome to the calculator program! Let's get started"
+  name: "What is your name?"
+  valid_name: "Please enter a valid name"
+  first_number: "Please enter your first number:"
+  valid_number: "That is not a valid choice."
+  second_number: "Please enter your second number:"
+  operation: "What operation would you like to perform?"
+  operation_choice: "1-add, 2-subtract, 3-Multiply, or 4-divide"
+  operation_valid: "That is not a valid choice. Please enter 1, 2, 3, or 4"
+  play_again: "Do you want to use the calculator again? (Y/N)"
+  thank_you: "Thank you for using the calculator! Good bye."
+  
+es:
+  welcome: "Bienvenidos a la calculadora!"
+  name: "Qual is su nombre?"
+  valid_name: "Por favor, entre un nombre valido"
+  first_number: "Por favor, entre su primer numero:"
+  valid_number: "No es una eleccion valida."
+  second_number: "Por favor, entre so numero segundo:"
+  operation: "Qual operacion quiere hacer?"
+  operation_choice: "1-sumar, 2-restar, 3-multiplicar, or 4-dividir"
+  operation_valid: "No es una elecction valida. Por favor, entre 1, 2, 3, or 4"
+  play_again: "Quiere usar la calculatora otra vez? (Y/N)"
+  thank_you: "Gracias por usar la calculadora. Adios!"

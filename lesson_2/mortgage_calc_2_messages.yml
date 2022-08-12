@@ -1,0 +1,12 @@
+welcome: "Welcome to the amazing mortgage calculator!"
+name: "Please enter your name."
+name_invalid: "Oops, you didn't enter your name. Try again."
+loan_amt: "Please enter your loan amount. Do not use commas."
+invalid_loan_amt: "That is not a valid number. Please enter a positive integer."
+apr: "Please enter your annual percentage rate (APR) ie: 4.25."
+invalid_apr: "That is not a valid APR. Try again"
+loan_dur_years: "Please enter your loan duration in years. ie: 30."
+invalid_loan_duration: "That is not a valid loan duration. Please enter a positive integer."
+monthly_payment: " Your monthly payment will be:"
+use_again: 'Would you like to use the calculator again? (Y/N)'
+thank_you: "Thank you for using the amazing mortgage calculator."
